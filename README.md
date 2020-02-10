@@ -3,7 +3,7 @@ Day Planner uses JavaScript to store a 9am-5pm work schedule in local storage.  
 
 
 screenshot of final project:
-![Coding Quiz Screenshot](./Assets/images/screenshot-001.jpg)
+![day planner screenshot](./Assets/images/screenshot-001.jpg)
 
 link to live demo:
 https://kjekcode.github.io/day-planner/
